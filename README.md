@@ -8,7 +8,7 @@ The requested changes are as follows:
 
 2. Add a banner to the top of the screen that shows the title, the number of times the player has died this session, and how long they've been playing since their last respawn. The box should resize to fit the screen.
 
-3. Use PlayerPrefs to track the player's best time and add this to the banner. Have diamonds rain from the sky when the player beats their personal best. Additionally, display a list of the top 5 scores the player has achieved.
+3. Use PlayerPrefs to track the player's best time and add this to the banner. Have diamonds rain from the sky when the player beats their personal best. Additionally, display a leaderboard of the top 5 scores the player has achieved.
 
 4. The game needs to do more to emphasize the grammar theme. Load the English word list in Assets/Databases, and parse it. Make the player character say (via short-lived, animated text) a random word from the wordlist when he picks up a pickup.
 
